@@ -1,0 +1,10 @@
+framework module CustomKit {
+  umbrella header "CustomKit.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomKit.Swift {
+    header "CustomKit-Swift.h"
+}

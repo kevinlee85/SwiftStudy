@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/kevin/Documents/workspace_Xcode/SwiftStudy/DerivedData/SwiftStudy/Build/Products/Debug-iphonesimulator/CustomKit.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/kevin/Documents/workspace_Xcode/SwiftStudy/DerivedData/SwiftStudy/Build/Intermediates/SwiftStudy.build/Debug-iphonesimulator/CustomKit.build/unextended-module.modulemap',
+    }]
+  }]
+}

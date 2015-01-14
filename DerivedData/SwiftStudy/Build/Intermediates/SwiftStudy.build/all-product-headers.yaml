@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kevin/Documents/workspace_Xcode/SwiftStudy/DerivedData/SwiftStudy/Build/Products/Debug-iphonesimulator/CustomKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CustomKit-Swift.h",
+          'external-contents': "/Users/kevin/Documents/workspace_Xcode/SwiftStudy/DerivedData/SwiftStudy/Build/Products/Debug-iphonesimulator/CustomKit.framework/Headers/CustomKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CustomKit.h",
+          'external-contents': "/Users/kevin/Documents/workspace_Xcode/SwiftStudy/CustomKit/CustomKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kevin/Documents/workspace_Xcode/SwiftStudy/DerivedData/SwiftStudy/Build/Products/Debug-iphonesimulator/CustomKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kevin/Documents/workspace_Xcode/SwiftStudy/DerivedData/SwiftStudy/Build/Products/Debug-iphonesimulator/CustomKit.framework/Modules/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

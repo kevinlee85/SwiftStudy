@@ -1,0 +1,6 @@
+framework module CustomKit {
+  umbrella header "CustomKit.h"
+
+  export *
+  module * { export * }
+}
